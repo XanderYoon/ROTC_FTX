@@ -1,4 +1,4 @@
-# ROTC_FTX
+# ROTC_FTX (Spring 2023)
 Overview:
 The Cadet Field Training Exercise (FTX) is a critical component of military training, serving as a comprehensive evaluation of a cadet's skills and readiness. This project involved the analysis of FTX performance data to gain insights into cadet performance, uncover potential biases in instructor gradings, and identify performance trends across different schools.
 
